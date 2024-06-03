@@ -10966,7 +10966,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 5
-  jump: 500
+  jump: 400
   isJumping: 0
   jumpSoundEffect: {fileID: 1368871870}
 --- !u!50 &1368871862
